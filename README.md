@@ -10,7 +10,7 @@ A web CTF built to train developers in secure coding while having fun! This was 
 | Easy     | 100    | access denied     | `access-denied`     | Seems like a simple API but I can't get the admin's flag!                                                  |
 | Easy     | 100    | prompt reply      | `smart-home`        | Wow, this smart home can fetch the weather! I wonder whether it needs a special key...                     |
 | Easy     | 100    | cross word        | `cross-word`        | A preview generation feature! Try to trigger `getFlag()`!                                                  |
-| Easy     | 100    | open sesame       | `open-sesame`       | I don't have the password to this, but maybe I can try something else?                                     |
+| Easy     | 100    | open sesame       | `open-sesame`       | I don't have the password to this, but maybe I can try something else? Credits @raisa2010                  |
 | Easy     | 100    | case closed       | `case-closed`       | Oof, this is a protected route. How can I get around it? (source code provided)                            |
 | Easy     | 100    | one time password | `one-time-password` | Wow, that's a really weak OTP!                                                                             |
 | Medium   | 150    | chat bot          | `chat-bot`          | This AI chat bot is hiding a secret!                                                                       |
